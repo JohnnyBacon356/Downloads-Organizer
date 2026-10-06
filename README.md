@@ -13,8 +13,7 @@ Startup Integration: Script/batch utility to easily add the organizer to the Win
 
 Requirements
 
-Operating System: Windows 10 or later
-Python:** Python 3.8+ (must be added to system `PATH`).
+Python: Python 3.8+ (must be added to system `PATH`).
 
 Installation
 
