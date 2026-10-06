@@ -4,7 +4,7 @@ Downloads Organizer is a stand-alone organization file that organizes your downl
 
 # Features:
 
-Automated File Organization: Instantly moves downloaded files into sub-folders (Images, Documents, Installers, Archives, 
+Automated File Organization: Instantly moves downloaded files into sub-folders (Images, Documents, Installers, Archives, ect)
 
 # Requirements:
 
