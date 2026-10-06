@@ -19,7 +19,7 @@ Python:** Python 3.8+ (must be added to system `PATH`).
 Installation
 
 1. Clone or Download this repository to your preferred directory.
-2. Automated Setup (Recommended):**
+2. Automated Setup (Recommended):
    - Double-click setup.bat.
    - This script will install required dependencies from requirements.txt and create a shortcut in your Windows Startup folder so it runs every time you log in.
 
